@@ -12,4 +12,4 @@ Acknowledgements:
 ->[Dlib Library](http://dlib.net/)
 ->[OpenCV Library](https://opencv.org/)
 ->[imutils Library](https://github.com/jrosebr1/imutils)
-->Special thanks to my teammate Bhuvan G (https://github.com/Bhuvan G) for his collaboration and support.
+->Special thanks to my teammate Bhuvan G (https://github.com/bhuvan1411) for his collaboration and support.
